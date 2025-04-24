@@ -1,0 +1,4 @@
+file '/Users/benjaminang/Desktop/Manim/media/videos/clip1_linear_review/1080p60/Clip1LinearReview.mp4'
+file '/Users/benjaminang/Desktop/Manim/media/videos/clip2_OLS/1080p60/Clip2OLSIntuition.mp4'
+file '/Users/benjaminang/Desktop/Manim/media/videos/clip4_real_life_example/1080p60/Clip4RealLifeExample.mp4'
+file '/Users/benjaminang/Desktop/Manim/media/videos/clip5_conclusion/1080p60/Clip5Conclusion.mp4'
